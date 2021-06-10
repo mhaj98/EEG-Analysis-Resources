@@ -4,6 +4,8 @@ This repository contains useful resources for EEG analysis and research
 ## Datasets
 
 ## Repos
+https://github.com/Eldave93/Seizure-Detection-Tutorials
+
 
 ## Coding
 ### MNE python package
