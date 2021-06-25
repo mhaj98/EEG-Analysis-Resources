@@ -6,6 +6,8 @@ This repository contains useful resources for EEG analysis and research
 ## Repos
 https://github.com/Eldave93/Seizure-Detection-Tutorials
 
+## Tutorials
+EEG power extraction https://raphaelvallat.com/bandpower.html
 
 ## Coding
 ### MNE python package
