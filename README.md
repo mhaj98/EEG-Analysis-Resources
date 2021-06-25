@@ -5,6 +5,7 @@ This repository contains useful resources for EEG analysis and research
 
 ## Repos
 https://github.com/Eldave93/Seizure-Detection-Tutorials
+https://github.com/lingchm/epilepsy_eeg_classification
 
 ## Tutorials
 EEG power extraction https://raphaelvallat.com/bandpower.html
